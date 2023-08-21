@@ -14,7 +14,8 @@
 
 <p>👋 &nbsp;Hi there! I'm Alisson, a Full Stack Software Engineer and undergraduate Computer Engineering student at <a href="https://ufrgs.br">UFRGS</a>.</p>
 <p>🚀 &nbsp;My language skillset includes Python, Javascript, Go, Rust, C/C++, but I'm not limited to them. I seek solve real problems, and I'm flexible to use any tools as long as they fit with the solution I came with in a given context.</p>
-<p>💡  &nbsp; I'm driven by user experience and security, since a solution that is not user friendly might not really solve the users needs, and a solution that puts the user in danger can be more harmful than no solution. </p>
+<p>💡 &nbsp; I'm driven by user experience and security, since a solution that is not user friendly might not really solve the users needs, and a solution that puts the user in danger can be more harmful than no solution. </p>
+<p>⚙️ &nbsp; I'm aligned with most DevOps principles, especially when it comes to automation and observability.
 <p>🌱 &nbsp;Currently, I'm working at <a href="https://converseon.ai">Converseon.AI</a> as Full Stack Developer, dealing not only with Front-End and Back-End, but also with some Data Engineering and DevOps.</p>
 <p>💼 &nbsp;In the past, I have worked as a Senior Full Stack Software Engineer at <a href="https://azion.com">Azion</a>, an Edge Computing Company.</p>
 <p>🤝 &nbsp;I'm always open to new opportunities and collaborations, so feel free to reach out to me!</p>
@@ -35,7 +36,6 @@
 
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![VueJS](https://img.shields.io/badge/-VueJS-05122A?style=flat&logo=vue.js)&nbsp;
-![Vuex](https://img.shields.io/badge/-Vuex-05122A?style=flat&logo=vuex)&nbsp;
 ![Quasar](https://img.shields.io/badge/-Quasar-05122A?style=flat&logo=quasar)&nbsp;
 ![Celery](https://img.shields.io/badge/-Celery-05122A?style=flat&logo=celery)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
@@ -53,6 +53,9 @@
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)&nbsp;
+![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=prometheus)&nbsp;
+![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=grafana)&nbsp;
+
 
 <hr />
 
