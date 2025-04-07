@@ -58,13 +58,3 @@
 
 
 <hr />
-
-## 📈 Statistics
-
-<br/>
-<p align="center">
-  <img width="48%" src="https://github-readme-stats-eosin-xi.vercel.app/api?username=claudinoac&count_private=true&theme=dark&show_icons=true" alt="claudinoac" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=claudinoac&theme=dark&show_icons=true&hide_border=true" />
-</p>
-<img src="https://wakatime.com/share/@claudinoac/2b84f832-c38d-46b7-bf7c-7f22759543a4.svg"></img>
-<hr />
