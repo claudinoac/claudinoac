@@ -16,7 +16,7 @@
 <p>🚀 &nbsp;My language skillset includes Python, Javascript, Go, Rust, C/C++, but I'm not limited to them. I seek solve real problems, and I'm flexible to use any tools as long as they fit with the solution I came with in a given context.</p>
 <p>💡 &nbsp; I'm driven by user experience and security, since a solution that is not user friendly might not really solve the users needs, and a solution that puts the user in danger can be more harmful than no solution. </p>
 <p>⚙️ &nbsp; I'm aligned with most DevOps principles, especially when it comes to automation and observability.
-<p>🌱 &nbsp;Currently, I'm working at <a href="https://converseon.ai">Converseon.AI</a> as Full Stack Developer, dealing not only with Front-End and Back-End, but also with some Data Engineering and DevOps.</p>
+<p>🌱 &nbsp;Currently, I'm working at <a href="https://converseon.ai">Converseon.AI</a> as Head of Engineering and Product, dealing with Architecture and Design of AI and Data Engineering Distributed Systems.</p>
 <p>💼 &nbsp;In the past, I have worked as a Senior Full Stack Software Engineer at <a href="https://azion.com">Azion</a>, an Edge Computing Company.</p>
 <p>🤝 &nbsp;I'm always open to new opportunities and collaborations, so feel free to reach out to me!</p>
 
