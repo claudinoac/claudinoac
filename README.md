@@ -12,7 +12,7 @@
 
 ## 👨🏻‍💻 &nbsp;About Me:
 
-<p>👋 &nbsp;Hi there! I'm Alisson, a Full Stack Software Engineer and undergraduate Computer Engineering student at <a href="https://ufrgs.br">UFRGS</a>.</p>
+<p>👋 &nbsp;Hi there! I'm Alisson, a Full Stack Software Engineer and undergraduate Computer Engineering student at <a href="https://ufsc.br">UFSC</a>.</p>
 <p>🚀 &nbsp;My language skillset includes Python, Javascript, Go, Rust, C/C++, but I'm not limited to them. I seek solve real problems, and I'm flexible to use any tools as long as they fit with the solution I came with in a given context.</p>
 <p>💡 &nbsp; I'm driven by user experience and security, since a solution that is not user friendly might not really solve the users needs, and a solution that puts the user in danger can be more harmful than no solution. </p>
 <p>⚙️ &nbsp; I'm aligned with most DevOps principles, especially when it comes to automation and observability.
